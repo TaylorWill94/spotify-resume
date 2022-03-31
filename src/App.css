@@ -13,4 +13,12 @@
   background-color: black;
   padding-top: 10px;
   padding-left: 15px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.hello {
+  padding-top: 10px;
+  padding-left: 15px;
+  color: white;
 }
