@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import portfolio from "./portfolio.png";
 import "./App.css";
 
 function App() {
@@ -26,8 +26,22 @@ function App() {
         <br />
         <br />
         <br />
+        <img src={portfolio} alt="profile-img" width="350" />
       </div>
-      <div className="hello">Good Evening</div>
+      <div className="hello">
+        <article>Software Engineer</article>
+        <br />
+        <br />
+        <br />
+        <br />
+        Good Evening
+        <br />
+        <br />
+        <br />
+        <br />
+        <article>Education</article>
+        <article>Portfolio</article>
+      </div>
     </div>
   );
 }

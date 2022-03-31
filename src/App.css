@@ -9,6 +9,7 @@
 }
 
 .home {
+  font-size: 18px;
   color: white;
   background-color: black;
   padding-top: 10px;
@@ -21,4 +22,6 @@
   padding-top: 10px;
   padding-left: 15px;
   color: white;
+  font-weight: bold;
+  font-size: 18px;
 }
