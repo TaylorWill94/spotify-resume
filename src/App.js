@@ -42,6 +42,7 @@ function App() {
         <article>Education</article>
         <article>Portfolio</article>
       </div>
+      <div className="search">Search</div>
       <footer className="footer">Taylor Williams</footer>
     </div>
   );
